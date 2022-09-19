@@ -6,4 +6,7 @@ while a>0:
     if count%b==0:
         a+=1
 print(count)
-print('pushed')
+if True:
+    print('pushed')
+else:
+    print('not pushed')
